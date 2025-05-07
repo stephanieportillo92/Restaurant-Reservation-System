@@ -35,3 +35,18 @@ This restaurant reservation system implements all the required features:
 
 
 The system is built with Next.js and uses server actions for data processing, making it scalable and maintainable.
+
+## How To Use
+
+To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/download/)
+```bash
+# Clone this repository
+git clone [https://github.com/stephanieportillo92/Restaurant-Reservation-System]
+# Go into the repository
+Restaurant-Reservation-System
+
+## Credits
+
+This software uses the following open source packages:
+
+- [Node.js](https://nodejs.org/)
