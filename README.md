@@ -112,7 +112,7 @@ Navigate to [http://localhost:3000](http://localhost:3000) to see the applicatio
 
 1. On the homepage, use the reservation search form to:
 
-1. Select a location (e.g., "Houston")
+1. Select a location (e.g., "New York")
 2. Choose a date (e.g., "June 15, 2025")
 3. Select a time (e.g., "19:00")
 4. Specify party size (e.g., "4 people")
